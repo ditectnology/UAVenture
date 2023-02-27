@@ -1,2 +1,2 @@
 # UAVenture
-U Amaze Venture Competition
+U Amaze Venture Competition resources
